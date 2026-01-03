@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Dhangar</h1>
 <h3 align="center">A passionate PHP Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashdhangar2k10&label=Profile%20views&color=0e75b6&style=flat" alt="aakashdhangar2k10" /> </p>
+<p align="left"> <img src="" alt="aakashdhangar2k10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashdhangar2k10" alt="aakashdhangar2k10" /></a> </p>
 
